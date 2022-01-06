@@ -2,11 +2,23 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-section {
+.first-section {
     display: flex;
 }
 
-section div {
+.second-section {
+    display: flex;
+}
+
+.second-section img {
+    width: 35%;
+}
+
+.second-section p {
+    font-size: 18px;
+}
+
+.first-section div {
     margin-left: 110px;
     margin-top: 100px;
     width: 50%;
@@ -17,13 +29,18 @@ section div {
     padding-bottom: 15px;
 }
 
-h1 {
+.mission-one-heading {
     font-size: 60px;
     border-left: 5px solid red;
     padding-left: 10px;
 }
 
-img {
+.mission-two-heading {
+    text-align: center;
+    font-size: 55px;
+}
+
+.focused-img {
     width: 65%;
 }
 
@@ -42,4 +59,28 @@ img {
 .scroll-down {
     padding-top: 20px;
     font-size: 18px;
+}
+
+.parallel-box {
+    width: 33.33%;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.p-box-1 {
+    background-color: rgba(255, 218, 185, 0.36);
+}
+
+.p-box-2 {
+    background-color: rgba(187, 123, 162, 0.217);
+}
+
+.p-box-3 {
+    background-color: rgba(132, 185, 199, 0.217);
 }
