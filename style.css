@@ -137,3 +137,18 @@ footer {
     font-family: 'Oleo Script', cursive;
     font-size: 45px;
 }
+
+.final-section {
+    display: flex;
+    margin-right: 110px;
+    margin-left: 110px;
+    margin-bottom: 100px;
+
+}
+
+.half-div {
+    padding: 20px;
+    box-shadow: 1px 1px 10px 1px black;
+    margin: 20px;
+    border-radius: 10px;
+}
