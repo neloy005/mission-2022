@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin: 0%;
 }
 
 .first-section {
@@ -120,4 +121,19 @@ h3 {
 .limit-2 {
     font-size: 40px;
     width: 326px;
+}
+
+footer {
+    margin: 0px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 37px;
+}
+
+#mission {
+    font-family: 'Oleo Script', cursive;
+    font-size: 45px;
 }
