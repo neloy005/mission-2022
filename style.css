@@ -10,8 +10,21 @@ body {
     display: flex;
 }
 
+.third-section {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 110px;
+    margin-left: 110px;
+}
+
 .second-section img {
     width: 35%;
+}
+
+.third-section p {
+    font-size: 25px;
+    padding-bottom: 20px;
 }
 
 .second-section p {
@@ -83,4 +96,15 @@ h3 {
 
 .p-box-3 {
     background-color: rgba(132, 185, 199, 0.217);
+}
+
+
+.coding-img {
+    width: 85%;
+
+}
+
+.limit {
+    font-size: 40px;
+    width: 290px;
 }
