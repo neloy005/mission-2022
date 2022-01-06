@@ -104,7 +104,20 @@ h3 {
 
 }
 
+.fourth-sec {
+    width: 85%;
+}
+
+.group-img {
+    width: 100%;
+}
+
 .limit {
     font-size: 40px;
     width: 290px;
+}
+
+.limit-2 {
+    font-size: 40px;
+    width: 326px;
 }
